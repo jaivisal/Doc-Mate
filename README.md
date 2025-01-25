@@ -38,8 +38,6 @@
   <ul>
     <li>Secure authentication with JWT.</li>
     <li>Responsive design for both desktop and mobile devices.</li>
-    <li>Real-time updates and notifications (e.g., appointment confirmations).</li>
-    <li>Integration with email or SMS for appointment reminders.</li>
   </ul>
 
   <h2>Tech Stack</h2>
@@ -48,14 +46,13 @@
     <li><strong>Backend:</strong> Node.js and Express.js for server-side logic and API development.</li>
     <li><strong>Database:</strong> MongoDB for efficient and scalable data storage.</li>
     <li><strong>Authentication:</strong> JSON Web Tokens (JWT) for secure login and session management.</li>
-    <li><strong>State Management:</strong> Redux for managing complex app state.</li>
   </ul>
 
   <h2>Installation and Setup</h2>
   <ol>
     <li>
       Clone the repository:
-      <pre><code>git clone https://github.com/ArunKumar-JaiVishal/DocMate.git
+      <pre><code>git clone https://github.com/jaivisal/Doc-Mate.git
 cd DocMate</code></pre>
     </li>
     <li>
@@ -137,6 +134,7 @@ npm start</code></pre>
     <li><strong>Jaivishal</strong></li>
   </ul>
 
-  <h2>License</h2>
-  <p>This project is licensed under the <a href="./LICENSE">MIT License</a>.</p>
+  <h2>Deployment</h2>
+  <a href="https://doc-mate-eosin.vercel.app/">DocMate</a>
+  <a href="https://doc-mate-y9wf.vercel.app/">DocMate-Admin</a>
 
