@@ -77,6 +77,8 @@ npm install</code></pre>
       <ul>
         <li>Create a <code>.env</code> file in the <code>backend</code> directory with the following:
           <pre><code>PORT=5000
+stripe=your_stripe api_key
+razor=your_razor api_key
 MONGO_URI=your_mongo_db_connection_string
 JWT_SECRET=your_jwt_secret</code></pre>
         </li>
